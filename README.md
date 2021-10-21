@@ -20,4 +20,7 @@ which is used to compare 8 optimizers activation results in % of
 accuracy.
 
 Index Terms—Sound Classification, ANN, CNN, RNN, LSTM,
-Spectrogram
+Spectrogram, Librosa
+
+Dataset: https://www.kaggle.com/chrisfilo/urbansound8k
+
